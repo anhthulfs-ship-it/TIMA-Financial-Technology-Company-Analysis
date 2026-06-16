@@ -7,7 +7,7 @@ This repository serves as a central storage for all my Python scripts and SQL qu
 
 ## Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
-- SQL (Query Writing & Data Analysis)
+- SQL
 - Power BI
 - GitHub
 
